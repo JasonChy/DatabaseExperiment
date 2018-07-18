@@ -1,0 +1,6 @@
+--准备实验数据
+--在KingbaseES中创建TEST数据库，然后创建SALES模式，并创建TPC-H数据库模式
+--定义数据库
+create database TEST encoding = 'GBK';
+--定义模式
+create schema Sales;
